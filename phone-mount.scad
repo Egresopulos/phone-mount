@@ -1,8 +1,8 @@
-phoneLength=155; // 155
-phoneWidth=75; // 75
-phoneThickness=12; // 12
+phoneLength=155,7; // 155
+phoneWidth=74,5; // 75
+phoneThickness=7,9; // 12
 laptopThickness=5; // 5
-clipWidth=70; // 70
+clipWidth=50; // 70
 
 /* [Hidden] */
 materialThickness=3; // 3
